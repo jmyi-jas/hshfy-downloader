@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "上海法院文书一键下载",
+  "version": "1.0",
+  "description": "自动下载http://www.hshfy.sh.cn（上海法院）文书送达页面所有文书",
+  "permissions": ["downloads", "activeTab", "scripting"],
+  "host_permissions": [
+    "https://www.hshfy.sh.cn/*",
+    "http://www.hshfy.sh.cn/*"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}

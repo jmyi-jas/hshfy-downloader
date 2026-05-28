@@ -8,7 +8,26 @@
     "https://www.hshfy.sh.cn/*",
     "http://www.hshfy.sh.cn/*"
   ],
+  "icons": {
+    "16": "download.png",
+    "48": "download.png",
+    "128": "download.png"
+  },
   "action": {
-    "default_popup": "popup.html"
-  }
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "download.png",
+      "32": "download.png"
+    },
+    "default_title": "上海法院文书一键下载"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["download.png"],
+      "matches": [
+        "https://www.hshfy.sh.cn/*",
+        "http://www.hshfy.sh.cn/*"
+      ]
+    }
+  ]
 }

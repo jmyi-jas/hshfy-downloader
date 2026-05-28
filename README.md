@@ -2,7 +2,7 @@
 [![Manifest Version](https://img.shields.io/badge/Manifest-v3-blue)](https://developer.chrome.com/docs/extensions/mv3/intro/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Chrome 浏览器扩展插件，用于自动批量下载上海法院诉讼服务网（http://www.hshfy.sh.cn）文书送达页面的法律文书。
+Chrome 浏览器扩展插件，用于自动批量下载上海法院诉讼服务网（http://www.hshfy.sh.cn） 文书送达页面的法律文书。
 
 ##  功能特性
 

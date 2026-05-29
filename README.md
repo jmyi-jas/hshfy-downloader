@@ -1,8 +1,18 @@
-# 上海法院文书一键下载 
-[![Manifest Version](https://img.shields.io/badge/Manifest-v3-blue)](https://developer.chrome.com/docs/extensions/mv3/intro/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+# 上海法院文书一键下载
 
-Chrome 浏览器扩展插件，用于自动批量下载上海法院诉讼服务网（http://www.hshfy.sh.cn） 文书送达页面的法律文书。
+<div align="center">
+
+<img src="download.png" width="80">
+
+**插件 · 用于自动批量下载上海法院诉讼服务网（http://www.hshfy.sh.cn） 文书送达页面的法律文书。** 
+
+![version](https://img.shields.io/badge/Manifest-V3-2d6a4f?style=for-the-badge)
+![license](https://img.shields.io/badge/License-MIT-52b788?style=for-the-badge)
+![platform](https://img.shields.io/badge/平台-Chrome-74c69d?style=for-the-badge)
+
+</div>
+
+
 
 ##  功能特性
 
